@@ -14,3 +14,4 @@ This is a small application for managing movies built using React, Redux Toolkit
 - Delete a user
 
 
+# movies-management-app
